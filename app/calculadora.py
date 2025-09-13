@@ -1,9 +1,9 @@
 # app/calculadora.py
 """This module provides basic arithmetic operations.
 
-    It includes functions for addition,
-    subtraction, multiplication, and division,
-    including error handling for division by zero.
+It includes functions for addition,
+subtraction, multiplication, and division,
+including error handling for division by zero.
 """
 
 
